@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin:0px;
+  border-style: solid;
+  border-color:red blue green purple;
+  border-width:3px;
+}
+
+header{
+  font-family:cursive;
+}
+
+.maroon {
+  color:maroon;
+}
+
+#Extra {
+  background-color: beige;
+  color: aqua;
+}
